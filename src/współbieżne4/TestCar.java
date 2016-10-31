@@ -2,6 +2,8 @@ package wspó³bie¿ne4;
 
 public class TestCar {
 
+	//Second Commit
+	
 	   // Symulacja up³ywu czasu...
 	   static void delay(int sek) {
 	     while(sek-- > 0) {
